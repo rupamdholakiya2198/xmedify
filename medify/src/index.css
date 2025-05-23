@@ -1,0 +1,10 @@
+body{
+  background: linear-gradient(to right , rgba(231, 240, 255, 1) , rgba(232, 241, 255, 0.47));
+  position: relative;
+  overflow-x: hidden;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+}
